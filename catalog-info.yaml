@@ -4,7 +4,7 @@ metadata:
   name: sprint-planning
   description: Sprint Planning
   annotations:
-    github.com/project-slug: 
+    github.com/project-slug: alienzdummy/sprint-planning
 spec:
   type: service
   lifecycle: experimental
